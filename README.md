@@ -1,5 +1,10 @@
 <div align="center">
 
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DSDmark/BubbleSort)
+![GitHub](https://img.shields.io/github/license/DSDmark/BubbleSort)
+![GitHub language count](https://img.shields.io/github/languages/count/DSDmark/BubbleSort)
+![GitHub last commit](https://img.shields.io/github/last-commit/DSDmark/BubbleSort)
+
 # CLIsapplications Collections
 
 <div>
