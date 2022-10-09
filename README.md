@@ -47,7 +47,7 @@ Once you are done  you can close the application in your terminal to quit the ap
 
 ### Sorting
 
-> [**preview**](images/preview.gif "perview")
+> ![**preview**](images/preview.gif "preview")
 
 </div>
 
