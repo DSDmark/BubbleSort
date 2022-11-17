@@ -17,7 +17,7 @@
 
 ## Purpose
 
-> Sorting algorithms are instructions given to a computer to arrange elements in a particular order. In other words in this application which made with nodejs show that how can we use loop for ordering the elements in particular way In this example we actually using two loop for element for each element of array and comparing them each other after iteration we switch element according to the condition so how it is work it is pretty a simple.
+> Sorting algorithms are instructions given to a computer to arrange elements in a particular order. In other words in this application which made with nodejs show that how can we use loop for ordering the elements in particular way In this example we actually using two loop for element for each element of array and comparing them each other after iteration we switch element according to the condition. so here, how it is work. pretty a simple hmm....
 ---
 
 ### How it work
